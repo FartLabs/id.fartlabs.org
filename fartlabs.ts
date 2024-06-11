@@ -20,6 +20,7 @@ export const fartlabs = {
     "https://linkedin.com/company/fartlabs",
     "https://linktr.ee/fartlabs",
   ],
+  member: "https://id.etok.me/",
 } as const satisfies Organization;
 
 /**
