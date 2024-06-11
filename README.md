@@ -1,6 +1,6 @@
-# id.etok.me
+# id.fart.tools
 
-Myself expressed in JSON-LD format.
+FartLabs organization expressed in JSON-LD format.
 
 ## Development
 
@@ -16,4 +16,4 @@ Run `deno lint` to lint the code.
 
 ---
 
-Maintained with 💖 by [**@EthanThatOneKid**](https://github.com/EthanThatOneKid)
+Maintained with 💖 [**@FartLabs**](https://github.com/FartLabs)

@@ -10,7 +10,7 @@ const JSON_VIEW_SRC =
 export const HTML_JSON_VIEW = `<!DOCTYPE html>
 <html>
 <head>
-  <title>id.etok.me</title>
+  <title>id.fart.tools</title>
   <style>
     * {
       font-family: consolas, monospace;

@@ -1,4 +1,4 @@
-import { graph } from "./ethan.ts";
+import { graph } from "./fartlabs.ts";
 import { HTML_JSON_VIEW } from "./json_view.ts";
 
 Deno.serve((request) => {
