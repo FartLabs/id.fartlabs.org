@@ -1,4 +1,4 @@
-# id.fart.tools
+# id.fartlabs.org
 
 FartLabs organization expressed in JSON-LD format.
 

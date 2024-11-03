@@ -10,7 +10,8 @@ const JSON_VIEW_SRC =
 export const HTML_JSON_VIEW = `<!DOCTYPE html>
 <html>
 <head>
-  <title>id.fart.tools</title>
+  <title>id.fartlabs.org</title>
+  <link rel="icon" href="https://fartlabs.org/fl-logo.png" type="image/x-icon">
   <style>
     * {
       font-family: consolas, monospace;

@@ -12,13 +12,13 @@ Deno.serve((request) => {
     });
   }
 
-  return new Response(
-    JSON.stringify(graph),
+  return Response.json(
+    graph,
     {
-      headers: {
+      headers: new Headers({
         "Content-Type": "application/ld+json",
         "Access-Control-Allow-Origin": "*",
-      },
+      }),
     },
   );
 });
