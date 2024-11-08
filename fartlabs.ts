@@ -17,6 +17,7 @@ export const fartlabs = {
     "https://x.com/fartlabs_org",
     "https://instagram.com/fartlabs",
     "https://linkedin.com/company/fartlabs",
+    "https://bsky.app/profile/fartlabs.org",
     "https://linktr.ee/fartlabs",
   ],
   founder: {
